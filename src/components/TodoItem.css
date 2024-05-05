@@ -1,0 +1,6 @@
+@media only screen and (max-width: 480px) {
+    .btn-check{
+        font-size: 2rem; /* Adjust size for larger screens */
+        margin-right: 10px;
+    }
+}
