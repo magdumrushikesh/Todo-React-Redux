@@ -10,3 +10,8 @@ In the project directory, you can run:
 
 ### Live Deployement
 https://6637d4c741207313ccb09542--glittery-alpaca-6a5102.netlify.app/
+
+### Install lib
+`npm install react-icons`
+`npm install thuck `
+`npm install` 
